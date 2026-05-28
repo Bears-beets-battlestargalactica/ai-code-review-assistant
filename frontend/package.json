@@ -2,6 +2,11 @@
   "name": "ai-code-review-assistant-frontend",
   "version": "0.1.0",
   "private": true,
+  "engines": {
+	"node": "20.x",
+	"npm": "10.8.2"
+   },
+  "packageManager": "npm@10.8.2",
   "type": "module",
   "scripts": {
     "dev": "vite",
