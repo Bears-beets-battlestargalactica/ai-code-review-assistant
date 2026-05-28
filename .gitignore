@@ -1,0 +1,30 @@
+# dependencies
+node_modules/
+.venv/
+venv/
+__pycache__/
+*.pyc
+
+# env
+.env
+.env.local
+backend/.env
+frontend/.env
+
+# build outputs
+dist/
+build/
+.next/
+coverage/
+
+# db
+*.db
+*.sqlite
+*.sqlite3
+postgres_data/
+
+# OS/editor
+.DS_Store
+.vscode/
+.idea/
+frontend/tsconfig.tsbuildinfo
