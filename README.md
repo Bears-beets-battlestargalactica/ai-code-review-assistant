@@ -21,6 +21,32 @@ A portfolio-grade full-stack developer tool that imports public GitHub repositor
 - GitHub Actions CI for backend and frontend
 - Deployment guide for Render + Vercel
 
+## Screenshots
+
+### Guest onboarding
+
+The first-time tutorial explains how guest mode, saved history, and optional AI review work.
+
+![Guest onboarding](assets/01-guest-tour.png)
+
+### Main dashboard
+
+The dashboard supports guest reviews, user authentication, GitHub repository import, optional AI review, and code editing.
+
+![Main dashboard](assets/02-dashboard.png)
+
+### GitHub-style inline review comments
+
+Review findings are shown near the relevant source lines with severity labels, categories, suggestions, and patch snippets.
+
+![Inline review comments](assets/03-inline-review.png)
+
+### Public GitHub repository review
+
+The app can import public GitHub repositories and review multiple files together.
+
+![GitHub repository review](assets/04-github-import-review.png)
+
 ## Tech stack
 
 - Frontend: React, TypeScript, Vite
