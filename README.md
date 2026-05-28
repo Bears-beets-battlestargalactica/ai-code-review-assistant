@@ -2,6 +2,14 @@
 
 A portfolio-grade full-stack developer tool that imports public GitHub repositories or pasted code, reviews files using a hybrid rule-based + AI approach, and generates GitHub-style inline comments, patch suggestions, unit test ideas, saved history, dashboards, and downloadable reports.
 
+## Live Demo
+
+Frontend: https://ai-code-review-assistant-gold.vercel.app  
+Backend API Docs: https://ai-code-review-assistant-e60j.onrender.com/docs
+
+> Note: The backend is hosted on Render's free tier, so the first request after inactivity may take a little longer while the service wakes up.
+
+
 ## Features
 
 - Paste code or import a public GitHub repository
